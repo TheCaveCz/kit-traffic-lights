@@ -1,6 +1,6 @@
 # Traffic Lights / Semafory
 
-![Dice](doc/pictures/kit.jpg)
+![kit](doc/pictures/kit.jpg)
 
 ## Česky
 
